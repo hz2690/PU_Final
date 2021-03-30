@@ -1,0 +1,294 @@
+25 01650 Abington School District                                                    16877     2505      183 sd19-ma.txt 16NOV2020 
+25 01710 Acton-Boxborough Regional School District                                   28869     6129      148 sd19-ma.txt 16NOV2020 
+25 01740 Acushnet School District                                                    10623      991       77 sd19-ma.txt 16NOV2020 
+25 01800 Agawam School District                                                      28607     4004      357 sd19-ma.txt 16NOV2020 
+25 01860 Amesbury School District                                                    17293     2523      166 sd19-ma.txt 16NOV2020 
+25 01890 Amherst School District                                                     38480     1270      140 sd19-ma.txt 16NOV2020 
+25 01920 Amherst-Pelham School District                                              43381     1634      157 sd19-ma.txt 16NOV2020 
+25 01950 Andover School District                                                     35116     6716      171 sd19-ma.txt 16NOV2020 
+25 01980 Arlington School District                                                   45923     5967      158 sd19-ma.txt 16NOV2020 
+25 02040 Ashburnham-Westminster School District                                      13886     2420      108 sd19-ma.txt 16NOV2020 
+25 02100 Ashland School District                                                     17821     2910      116 sd19-ma.txt 16NOV2020 
+25 02160 Athol-Royalston School District                                             13355     2039      318 sd19-ma.txt 16NOV2020 
+25 02190 Attleboro School District                                                   44919     6730      666 sd19-ma.txt 16NOV2020 
+25 02220 Auburn School District                                                      16874     2400      159 sd19-ma.txt 16NOV2020 
+25 02250 Avon School District                                                         4588      649       53 sd19-ma.txt 16NOV2020 
+25 00542 Ayer-Shirley School District                                                15693     2173      121 sd19-ma.txt 16NOV2020 
+25 02310 Barnstable School District                                                  44589     5189      571 sd19-ma.txt 16NOV2020 
+25 02400 Bedford School District                                                     14278     2357       62 sd19-ma.txt 16NOV2020 
+25 02430 Belchertown School District                                                 14908     2503      164 sd19-ma.txt 16NOV2020 
+25 02460 Bellingham School District                                                  17287     2698      146 sd19-ma.txt 16NOV2020 
+25 02490 Belmont School District                                                     26420     4451      135 sd19-ma.txt 16NOV2020 
+25 02520 Berkley School District                                                      6606      825       37 sd19-ma.txt 16NOV2020 
+25 02530 Berkshire Hills School District                                              9846     1227       93 sd19-ma.txt 16NOV2020 
+25 02580 Berlin-Boylston School District                                              7517     1167       53 sd19-ma.txt 16NOV2020 
+25 02640 Beverly School District                                                     41947     5318      401 sd19-ma.txt 16NOV2020 
+25 02670 Billerica School District                                                   43143     7012      264 sd19-ma.txt 16NOV2020 
+25 02715 Blackstone-Millville School District                                        12689     2173      140 sd19-ma.txt 16NOV2020 
+25 02790 Boston School District                                                     687699    74147    19777 sd19-ma.txt 16NOV2020 
+25 02820 Bourne School District                                                      19482     2307      149 sd19-ma.txt 16NOV2020 
+25 02880 Boxford School District                                                      8451      866       16 sd19-ma.txt 16NOV2020 
+25 02940 Braintree School District                                                   37634     5795      325 sd19-ma.txt 16NOV2020 
+25 02970 Brewster School District                                                     9693      410       56 sd19-ma.txt 16NOV2020 
+25 03030 Bridgewater-Raynham School District                                         41812     6067      395 sd19-ma.txt 16NOV2020 
+25 03060 Brimfield School District                                                    3632      269       25 sd19-ma.txt 16NOV2020 
+25 03090 Brockton School District                                                    98744    15746     2894 sd19-ma.txt 16NOV2020 
+25 03120 Brookfield School District                                                   3515      243       17 sd19-ma.txt 16NOV2020 
+25 03150 Brookline School District                                                   61783     6860      324 sd19-ma.txt 16NOV2020 
+25 03240 Burlington School District                                                  26257     3939      155 sd19-ma.txt 16NOV2020 
+25 03270 Cambridge School District                                                  112752     7388      783 sd19-ma.txt 16NOV2020 
+25 03300 Canton School District                                                      22733     3691      167 sd19-ma.txt 16NOV2020 
+25 03330 Carlisle School District                                                     5203      703       18 sd19-ma.txt 16NOV2020 
+25 03360 Carver School District                                                      12100     1827      120 sd19-ma.txt 16NOV2020 
+25 03390 Central Berkshire School District                                           13110     1829      191 sd19-ma.txt 16NOV2020 
+25 03510 Chelmsford School District                                                  36233     5933      235 sd19-ma.txt 16NOV2020 
+25 03540 Chelsea School District                                                     39163     6060     1700 sd19-ma.txt 16NOV2020 
+25 00014 Chesterfield-Goshen School District                                          2318      152        5 sd19-ma.txt 16NOV2020 
+25 03660 Chicopee School District                                                    55635     7556     1186 sd19-ma.txt 16NOV2020 
+25 03720 Clarksburg School District                                                   1620      159       12 sd19-ma.txt 16NOV2020 
+25 03750 Clinton School District                                                     14149     1924      226 sd19-ma.txt 16NOV2020 
+25 03780 Cohasset School District                                                     7943     1681       61 sd19-ma.txt 16NOV2020 
+25 03840 Concord School District                                                     18957     2077       52 sd19-ma.txt 16NOV2020 
+25 03870 Concord-Carlisle School District                                            24160     1526       27 sd19-ma.txt 16NOV2020 
+25 03900 Conway School District                                                       1868      132        9 sd19-ma.txt 16NOV2020 
+25 03990 Danvers School District                                                     28139     4024      203 sd19-ma.txt 16NOV2020 
+25 04020 Dartmouth School District                                                   35102     4470      311 sd19-ma.txt 16NOV2020 
+25 04050 Dedham School District                                                      26043     3634      232 sd19-ma.txt 16NOV2020 
+25 04080 Deerfield School District                                                    5036      387       24 sd19-ma.txt 16NOV2020 
+25 04140 Dennis-Yarmouth School District                                             37500     3524      404 sd19-ma.txt 16NOV2020 
+25 04200 Dighton-Rehoboth School District                                            19295     3401      186 sd19-ma.txt 16NOV2020 
+25 04230 Douglas School District                                                      8810     1627       70 sd19-ma.txt 16NOV2020 
+25 04260 Dover School District                                                        5890      598       13 sd19-ma.txt 16NOV2020 
+25 04290 Dover-Sherborn School District                                              10307     1447       63 sd19-ma.txt 16NOV2020 
+25 04320 Dracut School District                                                      31527     5043      338 sd19-ma.txt 16NOV2020 
+25 04360 Dudley-Charlton Regional School District                                    25347     4219      266 sd19-ma.txt 16NOV2020 
+25 04410 Duxbury School District                                                     15859     3219      109 sd19-ma.txt 16NOV2020 
+25 04440 East Bridgewater School District                                            14528     2413      144 sd19-ma.txt 16NOV2020 
+25 04500 East Longmeadow School District                                             15861     2617      177 sd19-ma.txt 16NOV2020 
+25 04530 Eastham School District                                                      4890      177       46 sd19-ma.txt 16NOV2020 
+25 04590 Easthampton School District                                                 16327     1827      184 sd19-ma.txt 16NOV2020 
+25 04620 Easton School District                                                      23832     3927      154 sd19-ma.txt 16NOV2020 
+25 09090 Edgartown School District                                                    4263      378       21 sd19-ma.txt 16NOV2020 
+25 04710 Erving School District                                                       1770      153       13 sd19-ma.txt 16NOV2020 
+25 04770 Everett School District                                                     44555     6522     1012 sd19-ma.txt 16NOV2020 
+25 04800 Fairhaven School District                                                   16365     2182      208 sd19-ma.txt 16NOV2020 
+25 25010 Fairhaven/New Bedford School Districts in Acushnet (9-12)                   10623      548       32 sd19-ma.txt 16NOV2020 
+25 04830 Fall River School District                                                  91617    12623     3281 sd19-ma.txt 16NOV2020 
+25 04860 Falmouth School District                                                    31109     3495      271 sd19-ma.txt 16NOV2020 
+25 13321 Farmington River Regional School District                                    2407      129        7 sd19-ma.txt 16NOV2020 
+25 04890 Fitchburg School District                                                   41953     5990     1367 sd19-ma.txt 16NOV2020 
+25 04920 Florida School District                                                       841       72       14 sd19-ma.txt 16NOV2020 
+25 04950 Foxborough School District                                                  17773     3029      142 sd19-ma.txt 16NOV2020 
+25 04980 Framingham School District                                                  73261     9586     1020 sd19-ma.txt 16NOV2020 
+25 05010 Franklin School District                                                    33322     6757      191 sd19-ma.txt 16NOV2020 
+25 05070 Freetown-Lakeville School District                                          20317     3487      209 sd19-ma.txt 16NOV2020 
+25 05100 Frontier School District                                                    12013      747       40 sd19-ma.txt 16NOV2020 
+25 05130 Gardner School District                                                     21050     2747      478 sd19-ma.txt 16NOV2020 
+25 05160 Gateway School District                                                      7967     1161       99 sd19-ma.txt 16NOV2020 
+25 05220 Georgetown School District                                                   8710     1643       62 sd19-ma.txt 16NOV2020 
+25 05270 Gill-Montague School District                                               11535     1261      146 sd19-ma.txt 16NOV2020 
+25 05280 Gloucester School District                                                  30569     3872      414 sd19-ma.txt 16NOV2020 
+25 05340 Gosnold School District                                                        79        6        1 sd19-ma.txt 16NOV2020 
+25 05370 Grafton School District                                                     18735     3109      115 sd19-ma.txt 16NOV2020 
+25 05400 Granby School District                                                       6348      995       72 sd19-ma.txt 16NOV2020 
+25 05490 Greenfield School District                                                  17156     2072      313 sd19-ma.txt 16NOV2020 
+25 05500 Groton-Dunstable School District                                            14817     3276       62 sd19-ma.txt 16NOV2020 
+25 05580 Hadley School District                                                       5341      667       47 sd19-ma.txt 16NOV2020 
+25 05610 Halifax School District                                                      7914      631       36 sd19-ma.txt 16NOV2020 
+25 05670 Hamilton-Wenham School District                                             13421     2330      118 sd19-ma.txt 16NOV2020 
+25 05730 Hampden-Wilbraham School District                                           19471     3334      154 sd19-ma.txt 16NOV2020 
+25 05740 Hampshire School District                                                   12371      894       36 sd19-ma.txt 16NOV2020 
+25 05760 Hancock School District                                                       684       48        4 sd19-ma.txt 16NOV2020 
+25 05790 Hanover School District                                                     14609     2835       90 sd19-ma.txt 16NOV2020 
+25 05880 Harvard School District                                                      6784     1186       45 sd19-ma.txt 16NOV2020 
+25 05940 Hatfield School District                                                     3316      391       17 sd19-ma.txt 16NOV2020 
+25 05970 Haverhill School District                                                   64643     9313     1243 sd19-ma.txt 16NOV2020 
+25 06000 Hawlemont School District                                                    1576       92       16 sd19-ma.txt 16NOV2020 
+25 06090 Hingham School District                                                     23331     4214       95 sd19-ma.txt 16NOV2020 
+25 06150 Holbrook School District                                                    11383     1657      120 sd19-ma.txt 16NOV2020 
+25 06210 Holland School District                                                      2493      193       13 sd19-ma.txt 16NOV2020 
+25 06240 Holliston School District                                                   14516     2816       66 sd19-ma.txt 16NOV2020 
+25 06270 Holyoke School District                                                     40118     6713     1682 sd19-ma.txt 16NOV2020 
+25 01780 Hoosac Valley School District                                               11813     1489      244 sd19-ma.txt 16NOV2020 
+25 06300 Hopedale School District                                                     6143     1101       52 sd19-ma.txt 16NOV2020 
+25 06330 Hopkinton School District                                                   15984     3808      109 sd19-ma.txt 16NOV2020 
+25 06390 Hudson School District                                                      20453     3136      180 sd19-ma.txt 16NOV2020 
+25 06420 Hull School District                                                        10839     1237      106 sd19-ma.txt 16NOV2020 
+25 06480 Ipswich School District                                                     13991     2093      105 sd19-ma.txt 16NOV2020 
+25 06510 King Philip School District                                                 32155     2671       74 sd19-ma.txt 16NOV2020 
+25 06540 Kingston School District                                                    13298     1208       69 sd19-ma.txt 16NOV2020 
+25 06660 Lawrence School District                                                    81064    15017     3426 sd19-ma.txt 16NOV2020 
+25 06690 Lee School District                                                          5970      695       74 sd19-ma.txt 16NOV2020 
+25 25015 Lee/Berkshire Hills in Farmington River Regional (7-12)                      2407      125        6 sd19-ma.txt 16NOV2020 
+25 06720 Leicester School District                                                   11334     1766      186 sd19-ma.txt 16NOV2020 
+25 06750 Lenox School District                                                        4827      645       40 sd19-ma.txt 16NOV2020 
+25 06780 Leominster School District                                                  42408     6316     1040 sd19-ma.txt 16NOV2020 
+25 06810 Leverett School District                                                     1809      119        6 sd19-ma.txt 16NOV2020 
+25 06840 Lexington School District                                                   33675     6669      220 sd19-ma.txt 16NOV2020 
+25 06900 Lincoln School District                                                      6831      941       29 sd19-ma.txt 16NOV2020 
+25 06930 Lincoln-Sudbury School District                                             25783     1871       66 sd19-ma.txt 16NOV2020 
+25 06960 Littleton School District                                                    9559     1795       67 sd19-ma.txt 16NOV2020 
+25 06990 Longmeadow School District                                                  15877     2952       83 sd19-ma.txt 16NOV2020 
+25 07020 Lowell School District                                                     114225    17160     3068 sd19-ma.txt 16NOV2020 
+25 07050 Ludlow School District                                                      21224     2874      265 sd19-ma.txt 16NOV2020 
+25 07080 Lunenburg School District                                                   10483     1678      106 sd19-ma.txt 16NOV2020 
+25 07110 Lynn School District                                                        95904    15025     2777 sd19-ma.txt 16NOV2020 
+25 07140 Lynnfield School District                                                   12312     2302       70 sd19-ma.txt 16NOV2020 
+25 07170 Malden School District                                                      63834     7810     1122 sd19-ma.txt 16NOV2020 
+25 00067 Manchester Essex Regional School District                                    9174     1555       60 sd19-ma.txt 16NOV2020 
+25 07230 Mansfield School District                                                   23901     5144      217 sd19-ma.txt 16NOV2020 
+25 07260 Marblehead School District                                                  21033     3739      130 sd19-ma.txt 16NOV2020 
+25 07290 Marion School District                                                       5167      423       31 sd19-ma.txt 16NOV2020 
+25 07320 Marlborough School District                                                 41283     5675      622 sd19-ma.txt 16NOV2020 
+25 07350 Marshfield School District                                                  26459     4476      335 sd19-ma.txt 16NOV2020 
+25 07380 Martha's Vineyard School District                                           17253      765       21 sd19-ma.txt 16NOV2020 
+25 07410 Masconomet School District                                                  24451     2399       93 sd19-ma.txt 16NOV2020 
+25 07440 Mashpee School District                                                     13818     1718      119 sd19-ma.txt 16NOV2020 
+25 07470 Mattapoisett School District                                                 6366      457       22 sd19-ma.txt 16NOV2020 
+25 07500 Maynard School District                                                     10838     1519       80 sd19-ma.txt 16NOV2020 
+25 07530 Medfield School District                                                    12669     3006       64 sd19-ma.txt 16NOV2020 
+25 07560 Medford School District                                                     60346     6314      506 sd19-ma.txt 16NOV2020 
+25 07590 Medway School District                                                      13438     2756       80 sd19-ma.txt 16NOV2020 
+25 07620 Melrose School District                                                     28920     4273      142 sd19-ma.txt 16NOV2020 
+25 07680 Mendon-Upton School District                                                13934     2830       96 sd19-ma.txt 16NOV2020 
+25 07740 Methuen School District                                                     50259     8014      837 sd19-ma.txt 16NOV2020 
+25 07770 Middleborough School District                                               24341     3685      349 sd19-ma.txt 16NOV2020 
+25 07830 Middleton School District                                                    9537      770       22 sd19-ma.txt 16NOV2020 
+25 07860 Milford School District                                                     29119     4165      518 sd19-ma.txt 16NOV2020 
+25 07890 Millbury School District                                                    13796     1934      153 sd19-ma.txt 16NOV2020 
+25 07920 Millis School District                                                       8322     1417       53 sd19-ma.txt 16NOV2020 
+25 07980 Milton School District                                                      28451     4898      154 sd19-ma.txt 16NOV2020 
+25 07990 Mohawk Trail School District                                                10404     1192      140 sd19-ma.txt 16NOV2020 
+25 00544 Monomoy Regional School District                                            18103     1744      194 sd19-ma.txt 16NOV2020 
+25 08040 Monson School District                                                       8612     1407       97 sd19-ma.txt 16NOV2020 
+25 08160 Mount Greylock School District                                              10547     1076       95 sd19-ma.txt 16NOV2020 
+25 25013 Mount Greylock/New Lebanon (NY) School Districts in Hancock (7-12)            684       46        6 sd19-ma.txt 16NOV2020 
+25 08220 Nahant School District                                                       3621      224       10 sd19-ma.txt 16NOV2020 
+25 08250 Nantucket School District                                                   11399     1618       88 sd19-ma.txt 16NOV2020 
+25 08280 Narragansett School District                                                10059     1625      125 sd19-ma.txt 16NOV2020 
+25 08310 Nashoba School District                                                     20551     3620      127 sd19-ma.txt 16NOV2020 
+25 08340 Natick School District                                                      35393     5557      199 sd19-ma.txt 16NOV2020 
+25 04560 Nauset School District                                                      23110     1278      148 sd19-ma.txt 16NOV2020 
+25 25012 Nauset/Provincetown School Districts in Turo (7-12)                          1976       80        3 sd19-ma.txt 16NOV2020 
+25 08370 Needham School District                                                     30520     6005      119 sd19-ma.txt 16NOV2020 
+25 08430 New Bedford School District                                                 98007    14681     3790 sd19-ma.txt 16NOV2020 
+25 08530 New Salem-Wendell School District                                            1807      118       10 sd19-ma.txt 16NOV2020 
+25 08580 Newburyport School District                                                 18487     2568      148 sd19-ma.txt 16NOV2020 
+25 08610 Newton School District                                                      91220    13706      516 sd19-ma.txt 16NOV2020 
+25 08640 Norfolk School District                                                     11814     1004       23 sd19-ma.txt 16NOV2020 
+25 08670 North Adams School District                                                 15500     1628      385 sd19-ma.txt 16NOV2020 
+25 08700 North Andover School District                                               30112     5488      258 sd19-ma.txt 16NOV2020 
+25 08730 North Attleborough School District                                          29588     5222      485 sd19-ma.txt 16NOV2020 
+25 08760 North Brookfield School District                                             4865      721       81 sd19-ma.txt 16NOV2020 
+25 08790 North Middlesex School District                                             25203     4603      207 sd19-ma.txt 16NOV2020 
+25 08820 North Reading School District                                               15972     2985       72 sd19-ma.txt 16NOV2020 
+25 08850 Northampton School District                                                 29060     3064      263 sd19-ma.txt 16NOV2020 
+25 08880 Northborough School District                                                14770     1924       75 sd19-ma.txt 16NOV2020 
+25 08910 Northborough-Southborough School District                                   24932     1679       46 sd19-ma.txt 16NOV2020 
+25 08940 Northbridge School District                                                 16335     2745      218 sd19-ma.txt 16NOV2020 
+25 09000 Norton School District                                                      19614     3220      164 sd19-ma.txt 16NOV2020 
+25 09030 Norwell School District                                                     11072     2198       50 sd19-ma.txt 16NOV2020 
+25 09060 Norwood School District                                                     30137     3899      316 sd19-ma.txt 16NOV2020 
+25 04650 Oak Bluffs School District                                                   4742      383      120 sd19-ma.txt 16NOV2020 
+25 09150 Old Rochester School District                                               17041     1330       66 sd19-ma.txt 16NOV2020 
+25 09180 Orange School District                                                       7707      588       96 sd19-ma.txt 16NOV2020 
+25 09210 Orleans School District                                                      5810      141       12 sd19-ma.txt 16NOV2020 
+25 09270 Oxford School District                                                      14260     2285      295 sd19-ma.txt 16NOV2020 
+25 09300 Palmer School District                                                      12214     1784      181 sd19-ma.txt 16NOV2020 
+25 09360 Peabody School District                                                     54441     6944      586 sd19-ma.txt 16NOV2020 
+25 09390 Pelham School District                                                       1346       69        6 sd19-ma.txt 16NOV2020 
+25 09420 Pembroke School District                                                    18788     3318      115 sd19-ma.txt 16NOV2020 
+25 09450 Pentucket School District                                                   18075     3369       96 sd19-ma.txt 16NOV2020 
+25 09540 Petersham School District                                                    1285       77        9 sd19-ma.txt 16NOV2020 
+25 09600 Pioneer Valley School District                                               6543      939       56 sd19-ma.txt 16NOV2020 
+25 09630 Pittsfield School District                                                  43997     5641     1010 sd19-ma.txt 16NOV2020 
+25 09690 Plainville School District                                                   8715      717       37 sd19-ma.txt 16NOV2020 
+25 09720 Plymouth School District                                                    59465     8454      705 sd19-ma.txt 16NOV2020 
+25 09780 Plympton School District                                                     2990      234       13 sd19-ma.txt 16NOV2020 
+25 09840 Provincetown School District                                                 2903      122       25 sd19-ma.txt 16NOV2020 
+25 00001 Quabbin School District                                                     16320     2852      224 sd19-ma.txt 16NOV2020 
+25 12100 Quaboag Regional School District                                             9139     1410       97 sd19-ma.txt 16NOV2020 
+25 09870 Quincy School District                                                      97186     9826     1173 sd19-ma.txt 16NOV2020 
+25 09900 Ralph C. Mahar School District                                              10799      783       88 sd19-ma.txt 16NOV2020 
+25 09930 Randolph School District                                                    33813     4857      614 sd19-ma.txt 16NOV2020 
+25 09990 Reading School District                                                     25700     4582      111 sd19-ma.txt 16NOV2020 
+25 10050 Revere School District                                                      57568     7602     1752 sd19-ma.txt 16NOV2020 
+25 10080 Richmond School District                                                     1411      102       25 sd19-ma.txt 16NOV2020 
+25 10140 Rochester School District                                                    5508      524       30 sd19-ma.txt 16NOV2020 
+25 10170 Rockland School District                                                    18406     2595      289 sd19-ma.txt 16NOV2020 
+25 10200 Rockport School District                                                     7382      889       75 sd19-ma.txt 16NOV2020 
+25 10230 Rowe School District                                                          391       33        3 sd19-ma.txt 16NOV2020 
+25 10380 Salem School District                                                       43866     5159      789 sd19-ma.txt 16NOV2020 
+25 10470 Sandwich School District                                                    20399     3388      162 sd19-ma.txt 16NOV2020 
+25 10500 Saugus School District                                                      28280     3721      289 sd19-ma.txt 16NOV2020 
+25 10530 Savoy School District                                                         659       43       10 sd19-ma.txt 16NOV2020 
+25 10560 Scituate School District                                                    19098     3284      154 sd19-ma.txt 16NOV2020 
+25 10590 Seekonk School District                                                     14139     2281      169 sd19-ma.txt 16NOV2020 
+25 10620 Sharon School District                                                      18491     3778       90 sd19-ma.txt 16NOV2020 
+25 10710 Sherborn School District                                                     4417      416       28 sd19-ma.txt 16NOV2020 
+25 10770 Shrewsbury School District                                                  36752     6555      219 sd19-ma.txt 16NOV2020 
+25 10800 Shutesbury School District                                                   1746      135       14 sd19-ma.txt 16NOV2020 
+25 10830 Silver Lake School District                                                 24202     1883       93 sd19-ma.txt 16NOV2020 
+25 10860 Somerset School District                                                    18715     1685      123 sd19-ma.txt 16NOV2020 
+25 00541 Somerset-Berkley School District                                            25322     1306       65 sd19-ma.txt 16NOV2020 
+25 10890 Somerville School District                                                  81161     5552      669 sd19-ma.txt 16NOV2020 
+25 10920 South Hadley School District                                                17830     1971      165 sd19-ma.txt 16NOV2020 
+25 10950 Southampton School District                                                  5891      417       17 sd19-ma.txt 16NOV2020 
+25 10980 Southborough School District                                                10161     1525       43 sd19-ma.txt 16NOV2020 
+25 11010 Southbridge School District                                                 17382     2616      588 sd19-ma.txt 16NOV2020 
+25 11040 Southern Berkshire School District                                           7245      868       75 sd19-ma.txt 16NOV2020 
+25 00013 Southwick-Tolland-Granville Regional School District                        11623     1847      132 sd19-ma.txt 16NOV2020 
+25 00002 Spencer-East Brookfield School District                                     14457     2073      206 sd19-ma.txt 16NOV2020 
+25 11130 Springfield School District                                                154041    27208     7293 sd19-ma.txt 16NOV2020 
+25 11220 Stoneham School District                                                    22841     3122      145 sd19-ma.txt 16NOV2020 
+25 11250 Stoughton School District                                                   28436     4084      354 sd19-ma.txt 16NOV2020 
+25 11310 Sturbridge School District                                                   9613      830       50 sd19-ma.txt 16NOV2020 
+25 11340 Sudbury School District                                                     18952     3156       73 sd19-ma.txt 16NOV2020 
+25 11370 Sunderland School District                                                   3628      152       12 sd19-ma.txt 16NOV2020 
+25 11400 Sutton School District                                                       9336     1722       63 sd19-ma.txt 16NOV2020 
+25 11430 Swampscott School District                                                  18264     2474      109 sd19-ma.txt 16NOV2020 
+25 11460 Swansea School District                                                     16347     2323      177 sd19-ma.txt 16NOV2020 
+25 11490 Tantasqua School District                                                   21104     1601       79 sd19-ma.txt 16NOV2020 
+25 11520 Taunton School District                                                     57563     8607     1353 sd19-ma.txt 16NOV2020 
+25 11580 Tewksbury School District                                                   31164     4985      208 sd19-ma.txt 16NOV2020 
+25 12570 Tisbury School District                                                      4139      339       54 sd19-ma.txt 16NOV2020 
+25 11670 Topsfield School District                                                    6462      608       34 sd19-ma.txt 16NOV2020 
+25 11740 Triton School District                                                      22103     3366      188 sd19-ma.txt 16NOV2020 
+25 11730 Truro School District                                                        1976       90        3 sd19-ma.txt 16NOV2020 
+25 11760 Tyngsborough School District                                                12131     2242       76 sd19-ma.txt 16NOV2020 
+25 00043 Up-Island Regional School District                                           4109      371       32 sd19-ma.txt 16NOV2020 
+25 11850 Uxbridge School District                                                    13998     2277      236 sd19-ma.txt 16NOV2020 
+25 11880 Wachusett School District                                                   43129     7597      250 sd19-ma.txt 16NOV2020 
+25 11910 Wakefield School District                                                   26892     3908      135 sd19-ma.txt 16NOV2020 
+25 11940 Wales School District                                                        1850      135       17 sd19-ma.txt 16NOV2020 
+25 11970 Walpole School District                                                     25354     4503      127 sd19-ma.txt 16NOV2020 
+25 12000 Waltham School District                                                     65042     5570      524 sd19-ma.txt 16NOV2020 
+25 12030 Ware School District                                                        10033     1342      229 sd19-ma.txt 16NOV2020 
+25 12060 Wareham School District                                                     22996     3084      441 sd19-ma.txt 16NOV2020 
+25 12180 Watertown School District                                                   34272     3081      246 sd19-ma.txt 16NOV2020 
+25 12210 Wayland School District                                                     13879     2815       52 sd19-ma.txt 16NOV2020 
+25 12240 Webster School District                                                     17449     2334      422 sd19-ma.txt 16NOV2020 
+25 12270 Wellesley School District                                                   29388     5640      161 sd19-ma.txt 16NOV2020 
+25 12300 Wellfleet School District                                                    2717      107        7 sd19-ma.txt 16NOV2020 
+25 12390 West Boylston School District                                                7985      977       90 sd19-ma.txt 16NOV2020 
+25 12420 West Bridgewater School District                                             7295     1074       63 sd19-ma.txt 16NOV2020 
+25 12510 West Springfield School District                                            28560     3907      546 sd19-ma.txt 16NOV2020 
+25 12600 Westborough School District                                                 19010     3294      115 sd19-ma.txt 16NOV2020 
+25 12630 Westfield School District                                                   41337     5971      619 sd19-ma.txt 16NOV2020 
+25 12660 Westford School District                                                    23543     5318      105 sd19-ma.txt 16NOV2020 
+25 12690 Westhampton School District                                                  1631      114        5 sd19-ma.txt 16NOV2020 
+25 12750 Weston School District                                                      12073     2613      177 sd19-ma.txt 16NOV2020 
+25 12780 Westport School District                                                    16008     2226      164 sd19-ma.txt 16NOV2020 
+25 12810 Westwood School District                                                    15406     3331       52 sd19-ma.txt 16NOV2020 
+25 12840 Weymouth School District                                                    56633     7587      610 sd19-ma.txt 16NOV2020 
+25 12870 Whately School District                                                      1482       77        3 sd19-ma.txt 16NOV2020 
+25 12930 Whitman-Hanson School District                                              26001     4374      244 sd19-ma.txt 16NOV2020 
+25 12990 Williamsburg School District                                                 2532      153       20 sd19-ma.txt 16NOV2020 
+25 13050 Wilmington School District                                                  23955     4268      117 sd19-ma.txt 16NOV2020 
+25 13080 Winchendon School District                                                  10749     1863      210 sd19-ma.txt 16NOV2020 
+25 13110 Winchester School District                                                  22931     4675       94 sd19-ma.txt 16NOV2020 
+25 13170 Winthrop School District                                                    19477     2359      271 sd19-ma.txt 16NOV2020 
+25 13200 Woburn School District                                                      41719     5243      404 sd19-ma.txt 16NOV2020 
+25 13230 Worcester School District                                                  188196    25785     5791 sd19-ma.txt 16NOV2020 
+25 13260 Worthington School District                                                  1177      121       20 sd19-ma.txt 16NOV2020 
+25 13290 Wrentham School District                                                    11626     1147       36 sd19-ma.txt 16NOV2020 
