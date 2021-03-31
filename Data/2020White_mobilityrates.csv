@@ -1,0 +1,397 @@
+﻿District Name,District Code,Churn/Intake Enroll,% Churn,% Intake,Stability Enroll,% Stability
+Boston Renaissance Charter Public (District),04810000,        14,     0.0,     0.0,        14,   100.0
+Community Day Charter Public School - Gateway (District),04260000,         9,     0.0,     0.0,         9,   100.0
+Community Day Charter Public School - Prospect (District),04400000,         7,     0.0,     0.0,         7,   100.0
+Conservatory Lab Charter (District),04390000,        21,     4.8,     4.8,        20,   100.0
+Dover,00780000,       362,     2.8,     2.8,       352,   100.0
+Holyoke Community Charter (District),04530000,        32,     0.0,     0.0,        32,   100.0
+Lawrence Family Development Charter (District),04540000,         8,     0.0,     0.0,         8,   100.0
+Ma Academy for Math and Science,04680000,        37,     0.0,     0.0,        37,   100.0
+Martin Luther King Jr. Charter School of Excellence (District),04920000,         8,    12.5,    12.5,         7,   100.0
+Nahant,01960000,       141,     1.4,     1.4,       139,   100.0
+Phoenix Academy Public Charter High School Lawrence (District),35180000,        10,    60.0,    60.0,         4,   100.0
+Rowe,02530000,        61,     0.0,     0.0,        61,   100.0
+Savoy,02630000,        55,     1.8,     1.8,        54,   100.0
+Whately,03370000,       121,     1.7,     1.7,       119,   100.0
+Middleton,01840000,       615,     2.3,     2.0,       603,    99.7
+Greater Lawrence Regional Vocational Technical,08230000,       226,     0.9,     0.4,       225,    99.6
+Hanover,01220000,"     2,511",     1.5,     1.1,"     2,484",    99.6
+Lynnfield,01640000,"     1,839",     1.0,     0.6,"     1,829",    99.6
+Boxford,00380000,       648,     1.4,     1.1,       642,    99.5
+Hill View Montessori Charter Public (District),04550000,       207,     2.4,     2.4,       203,    99.5
+Wayland,03150000,"     1,881",     1.2,     0.8,"     1,867",    99.5
+Westwood,03350000,"     2,341",     1.4,     1.0,"     2,323",    99.5
+Lenox,01520000,       640,     2.0,     1.6,       631,    99.4
+Berkley,00270000,       863,     1.9,     1.3,       854,    99.2
+Concord,00670000,"     1,575",     2.7,     1.8,"     1,549",    99.2
+Leverett,01540000,       123,     0.8,     0.0,       123,    99.2
+Lincoln-Sudbury,06950000,"     1,193",     1.5,     0.8,"     1,185",    99.2
+Scituate,02640000,"     2,781",     1.6,     0.8,"     2,761",    99.2
+Acton-Boxborough,06000000,"     2,908",     2.1,     1.2,"     2,875",    99.1
+Advanced Math and Science Academy Charter (District),04300000,       652,     1.2,     0.5,       650,    99.1
+Carlisle,00510000,       445,     1.8,     0.9,       441,    99.1
+Wakefield,03050000,"     2,913",     1.7,     1.1,"     2,889",    99.1
+Westhampton,03270000,       113,     0.9,     0.0,       113,    99.1
+Weston,03300000,"     1,319",     2.0,     1.4,"     1,305",    99.1
+Wilmington,03420000,"     2,711",     1.8,     0.9,"     2,690",    99.1
+Winchester,03440000,"     3,373",     2.4,     1.6,"     3,327",    99.1
+Arlington,00100000,"     4,314",     2.1,     1.3,"     4,265",    99.0
+Global Learning Charter Public (District),04960000,       203,     1.0,     0.0,       203,    99.0
+Hatfield,01270000,       406,     2.7,     1.7,       399,    99.0
+King Philip,06900000,"     1,778",     1.5,     0.7,"     1,770",    99.0
+Littleton,01580000,"     1,398",     1.7,     0.7,"     1,388",    99.0
+Masconomet,07050000,"     1,582",     1.3,     0.4,"     1,576",    99.0
+Norfolk,02080000,       920,     2.1,     1.1,       910,    99.0
+North Reading,02170000,"     2,132",     1.9,     1.0,"     2,113",    99.0
+Shutesbury,02720000,       107,     3.7,     3.7,       104,    99.0
+Longmeadow,01590000,"     2,254",     2.6,     1.7,"     2,220",    98.9
+Northborough,02130000,"     1,159",     2.5,     1.7,"     1,144",    98.9
+Sharon,02660000,"     1,975",     2.4,     1.5,"     1,950",    98.9
+Walpole,03070000,"     3,023",     2.6,     1.7,"     2,979",    98.9
+Westford,03260000,"     3,245",     2.4,     1.7,"     3,202",    98.9
+Belmont,00260000,"     3,073",     2.7,     2.1,"     3,027",    98.8
+Hopedale,01380000,       938,     2.0,     1.0,       930,    98.8
+Manchester Essex Regional,06980000,"     1,334",     2.2,     1.4,"     1,320",    98.8
+Millis,01870000,"     1,022",     2.8,     1.8,"     1,005",    98.8
+Needham,01990000,"     4,373",     1.9,     1.0,"     4,343",    98.8
+Topsfield,02980000,       598,     2.0,     0.8,       593,    98.8
+Truro,03000000,        81,     1.2,     0.0,        81,    98.8
+Wellesley,03170000,"     3,457",     2.6,     1.8,"     3,410",    98.8
+Benjamin Franklin Classical Charter Public (District),04470000,       478,     2.9,     1.7,       470,    98.7
+Chelmsford,00560000,"     3,600",     2.6,     1.3,"     3,565",    98.7
+Eastham,00850000,       167,     6.0,     5.4,       159,    98.7
+Granby,01110000,       645,     2.9,     2.0,       634,    98.7
+Groton-Dunstable,06730000,"     2,047",     2.5,     1.5,"     2,022",    98.7
+Halifax,01180000,       532,     2.1,     1.5,       528,    98.7
+Holliston,01360000,"     2,415",     2.4,     1.4,"     2,387",    98.7
+Hopkinton,01390000,"     2,757",     2.1,     1.0,"     2,734",    98.7
+Somerset,02730000,"     1,604",     2.9,     1.9,"     1,581",    98.7
+Ashland,00140000,"     1,879",     2.2,     1.3,"     1,865",    98.6
+Blackstone Valley Regional Vocational Technical,08050000,"     1,095",     1.4,     0.2,"     1,095",    98.6
+Cohasset,00650000,"     1,377",     1.8,     1.2,"     1,371",    98.6
+Easton,00880000,"     2,885",     2.7,     2.0,"     2,847",    98.6
+Francis W. Parker Charter Essential (District),04780000,       353,     2.5,     1.4,       349,    98.6
+Lexington,01550000,"     3,212",     2.7,     1.8,"     3,172",    98.6
+Medway,01770000,"     1,938",     2.3,     1.0,"     1,921",    98.6
+Melrose,01780000,"     3,137",     2.5,     1.6,"     3,103",    98.6
+Milton,01890000,"     3,103",     2.3,     1.2,"     3,079",    98.6
+Northboro-Southboro,07300000,"     1,089",     2.4,     1.3,"     1,078",    98.6
+Andover,00090000,"     4,019",     2.2,     0.7,"     3,997",    98.5
+Hadley,01170000,       410,     3.4,     2.7,       402,    98.5
+Marshfield,01710000,"     3,749",     3.2,     2.0,"     3,691",    98.5
+Nashoba,07250000,"     2,801",     2.5,     1.4,"     2,772",    98.5
+Norwell,02190000,"     2,069",     2.2,     1.8,"     2,055",    98.5
+Williamsburg,03400000,       136,     5.9,     5.1,       130,    98.5
+Chesterfield-Goshen,06320000,       127,     5.5,     3.9,       122,    98.4
+Concord-Carlisle,06400000,"     1,006",     2.0,     0.9,"     1,002",    98.4
+Harvard,01250000,       830,     2.4,     1.2,       823,    98.4
+Medfield,01750000,"     2,286",     2.3,     1.9,"     2,270",    98.4
+Mendon-Upton,07100000,"     2,033",     2.4,     1.3,"     2,016",    98.4
+New Salem-Wendell,07280000,       126,     3.2,     3.2,       124,    98.4
+Newton,02070000,"     7,937",     2.8,     1.6,"     7,844",    98.4
+Norfolk County Agricultural,09150000,       500,     1.6,     0.0,       500,    98.4
+Norton,02180000,"     2,163",     2.6,     1.2,"     2,141",    98.4
+River Valley Charter (District),04820000,       254,     2.4,     1.2,       252,    98.4
+Sutton,02900000,"     1,242",     2.7,     1.4,"     1,228",    98.4
+Conway,00680000,       122,     2.5,     1.6,       121,    98.3
+Danvers,00710000,"     2,925",     3.6,     2.2,"     2,871",    98.3
+Dighton-Rehoboth,06500000,"     2,585",     3.1,     1.8,"     2,549",    98.3
+Dover-Sherborn,06550000,       925,     1.8,     0.3,       925,    98.3
+Duxbury,00820000,"     2,766",     2.7,     1.8,"     2,736",    98.3
+Hilltown Cooperative Charter Public (District),04500000,       176,     2.8,     1.7,       174,    98.3
+Kingston,01450000,"     1,039",     4.2,     2.8,"     1,012",    98.3
+Seekonk,02650000,"     1,805",     3.1,     1.9,"     1,779",    98.3
+Shawsheen Valley Regional Vocational Technical,08710000,"     1,155",     2.0,     0.8,"     1,151",    98.3
+Sturbridge,02870000,       788,     4.1,     3.0,       769,    98.3
+Ashburnham-Westminster,06100000,"     2,190",     4.2,     2.8,"     2,136",    98.2
+Braintree,00400000,"     3,940",     3.0,     1.2,"     3,902",    98.2
+East Longmeadow,00870000,"     2,063",     2.6,     1.4,"     2,046",    98.2
+Farmington River Reg,06620000,       114,     3.5,     1.8,       112,    98.2
+Marblehead,01680000,"     2,578",     2.7,     1.3,"     2,555",    98.2
+Newburyport,02040000,"     2,070",     2.4,     1.3,"     2,058",    98.2
+Southampton,02750000,       446,     2.5,     0.9,       443,    98.2
+Westport,03310000,"     1,332",     3.9,     2.3,"     1,304",    98.2
+Belchertown,00240000,"     2,020",     3.3,     1.8,"     1,991",    98.1
+Dartmouth,00720000,"     3,159",     2.8,     1.2,"     3,129",    98.1
+Essex North Shore Agricultural and Technical School District,08170000,"     1,192",     2.0,     0.8,"     1,191",    98.1
+Franklin,01010000,"     4,382",     3.1,     1.4,"     4,339",    98.1
+Gloucester,01070000,"     2,358",     3.9,     2.2,"     2,315",    98.1
+Natick,01980000,"     4,186",     2.9,     2.3,"     4,145",    98.1
+Orleans,02240000,       165,     4.8,     4.2,       160,    98.1
+Pembroke,02310000,"     2,630",     3.0,     1.4,"     2,604",    98.1
+Sudbury,02880000,"     2,028",     3.4,     2.2,"     1,998",    98.1
+Tri-County Regional Vocational Technical,08780000,       846,     2.5,     0.7,       841,    98.1
+Auburn,00170000,"     2,161",     3.2,     1.6,"     2,136",    98.0
+Bridgewater-Raynham,06250000,"     4,610",     3.4,     2.2,"     4,548",    98.0
+Christa McAuliffe Charter Public (District),04180000,       198,     2.0,     0.5,       198,    98.0
+Dedham,00730000,"     1,936",     3.7,     2.1,"     1,902",    98.0
+Douglas,00770000,"     1,170",     3.2,     1.5,"     1,156",    98.0
+Hamilton-Wenham,06750000,"     1,643",     2.9,     1.8,"     1,628",    98.0
+Mansfield,01670000,"     2,969",     2.9,     1.7,"     2,940",    98.0
+Old Sturbridge Academy Charter Public School (District),35150000,       202,     4.0,     3.5,       198,    98.0
+Swampscott,02910000,"     1,778",     3.4,     1.7,"     1,754",    98.0
+Tyngsborough,03010000,"     1,309",     3.8,     2.4,"     1,285",    98.0
+Florida,00980000,        97,     5.2,     3.1,        94,    97.9
+Greater Fall River Regional Vocational Technical,08210000,"     1,097",     2.4,     0.7,"     1,094",    97.9
+Hampden-Wilbraham,06800000,"     2,554",     3.9,     2.3,"     2,508",    97.9
+Hingham,01310000,"     3,833",     2.9,     2.0,"     3,802",    97.9
+Hudson,01410000,"     2,071",     4.0,     2.2,"     2,035",    97.9
+Nauset,06600000,"     1,261",     3.0,     1.4,"     1,249",    97.9
+West Bridgewater,03230000,"     1,175",     3.3,     1.6,"     1,160",    97.9
+Whittier Regional Vocational Technical,08850000,       876,     2.6,     0.8,       871,    97.9
+Acushnet,00030000,       926,     3.8,     2.3,       912,    97.8
+Bedford,00230000,"     1,705",     2.9,     1.6,"     1,693",    97.8
+Burlington,00480000,"     2,301",     3.3,     2.1,"     2,275",    97.8
+Grafton,01100000,"     2,527",     3.5,     2.2,"     2,494",    97.8
+Greater New Bedford Regional Vocational Technical,08250000,"     1,304",     2.2,     0.0,"     1,304",    97.8
+Ipswich,01440000,"     1,494",     3.9,     2.3,"     1,467",    97.8
+KIPP Academy Lynn Charter (District),04290000,        93,     4.3,     4.3,        91,    97.8
+Northampton,02100000,"     1,956",     3.9,     2.3,"     1,923",    97.8
+Northampton-Smith Vocational Agricultural,04060000,       419,     2.9,     1.0,       416,    97.8
+Plymouth,02390000,"     6,447",     4.5,     2.4,"     6,324",    97.8
+West Boylston,03220000,       730,     3.8,     1.9,       718,    97.8
+Academy Of the Pacific Rim Charter Public (District),04120000,        45,     6.7,     6.7,        43,    97.7
+Atlantis Charter (District),04910000,       995,     3.5,     2.4,       983,    97.7
+Brookline,00460000,"     4,214",     4.1,     2.5,"     4,139",    97.7
+Freetown-Lakeville,06650000,"     2,688",     4.0,     2.2,"     2,642",    97.7
+Hawlemont,06850000,       130,     3.8,     2.3,       128,    97.7
+Northern Berkshire Regional Vocational Technical,08510000,       485,     2.7,     0.6,       483,    97.7
+Pentucket,07450000,"     2,210",     4.1,     1.9,"     2,177",    97.7
+Plainville,02380000,       586,     4.3,     2.4,       574,    97.7
+Reading,02460000,"     3,636",     3.2,     2.5,"     3,604",    97.7
+East Bridgewater,00830000,"     2,014",     3.4,     1.5,"     1,993",    97.6
+Foxborough,00990000,"     2,063",     3.4,     2.0,"     2,041",    97.6
+Hampshire,06830000,       681,     3.4,     1.3,       674,    97.6
+Innovation Academy Charter (District),04350000,       556,     3.1,     1.6,       552,    97.6
+Nantucket,01970000,       857,     3.2,     1.6,       850,    97.6
+South Shore Regional Vocational Technical,08730000,       574,     2.6,     0.7,       573,    97.6
+Beverly,00300000,"     3,656",     4.2,     2.4,"     3,598",    97.5
+Frontier,06700000,       573,     2.8,     0.5,       571,    97.5
+Monomoy Regional School District,07120000,"     1,486",     4.1,     2.6,"     1,462",    97.5
+North Andover,02110000,"     3,491",     3.5,     2.0,"     3,457",    97.5
+Pioneer Charter School of Science (District),04940000,       278,     2.9,     0.7,       277,    97.5
+Rockport,02520000,       828,     4.2,     2.5,       813,    97.5
+Salem Academy Charter (District),04850000,       197,     2.5,     1.5,       197,    97.5
+Westborough,03210000,"     2,127",     4.2,     2.2,"     2,090",    97.5
+Westfield,03250000,"     4,074",     4.7,     2.5,"     3,989",    97.5
+Amesbury,00070000,"     1,725",     4.2,     1.7,"     1,700",    97.4
+Boston Green Academy Horace Mann Charter School (District),04110000,        38,     2.6,     0.0,        38,    97.4
+Brewster,00410000,       398,     4.5,     2.5,       390,    97.4
+Petersham,02340000,       118,     4.2,     2.5,       116,    97.4
+Shrewsbury,02710000,"     3,277",     4.0,     2.3,"     3,232",    97.4
+Somerset Berkley Regional School District,07630000,       958,     3.7,     1.7,       948,    97.4
+Southeastern Regional Vocational Technical,08720000,       664,     3.2,     1.1,       660,    97.4
+Wachusett,07750000,"     6,186",     5.3,     2.6,"     6,100",    97.4
+Waltham,03080000,"     2,385",     4.3,     3.2,"     2,347",    97.4
+Berkshire Hills,06180000,       965,     4.7,     2.9,       946,    97.3
+Canton,00500000,"     2,220",     4.1,     3.3,"     2,188",    97.3
+Erving,00910000,       111,     3.6,     3.6,       110,    97.3
+Holbrook,01330000,       674,     3.6,     1.2,       668,    97.3
+Maynard,01740000,"     1,015",     4.6,     2.2,       995,    97.3
+Mount Greylock,07150000,"     1,048",     4.1,     2.2,"     1,033",    97.3
+Nashoba Valley Regional Vocational Technical,08520000,       625,     3.7,     1.6,       619,    97.3
+Northbridge,02140000,"     1,785",     5.9,     4.0,"     1,725",    97.3
+Norwood,02200000,"     2,228",     4.3,     1.8,"     2,199",    97.3
+Old Colony Regional Vocational Technical,08550000,       520,     2.9,     0.6,       519,    97.3
+Silver Lake,07600000,"     1,686",     5.5,     3.3,"     1,639",    97.3
+Southwick-Tolland-Granville Regional School District,07660000,"     1,385",     4.8,     2.9,"     1,354",    97.3
+Dudley-Charlton Reg,06580000,"     3,233",     4.8,     2.7,"     3,167",    97.2
+Lee,01500000,       611,     4.6,     2.0,       600,    97.2
+Lunenburg,01620000,"     1,432",     4.7,     2.6,"     1,404",    97.2
+North Attleborough,02120000,"     3,392",     4.6,     2.5,"     3,333",    97.2
+Oak Bluffs,02210000,       257,     5.4,     3.9,       250,    97.2
+Oxford,02260000,"     1,296",     5.9,     2.9,"     1,263",    97.2
+Plympton,02400000,       216,     3.7,     1.4,       214,    97.2
+Prospect Hill Academy Charter (District),04870000,       144,     4.9,     2.8,       141,    97.2
+Swansea,02920000,"     2,012",     3.9,     1.6,"     1,990",    97.2
+Taunton,02930000,"     5,173",     6.2,     3.0,"     5,054",    97.2
+Assabet Valley Regional Vocational Technical,08010000,       873,     3.2,     1.3,       870,    97.1
+Central Berkshire,06350000,"     1,454",     5.0,     2.8,"     1,425",    97.1
+Marlborough,01700000,"     1,898",     6.4,     4.4,"     1,832",    97.1
+Old Rochester,07400000,"     1,061",     3.5,     1.4,"     1,055",    97.1
+Ralph C Mahar,07550000,       532,     4.7,     2.3,       522,    97.1
+Tewksbury,02950000,"     2,907",     4.0,     1.8,"     2,874",    97.1
+Abington,00010000,"     1,800",     4.6,     2.2,"     1,772",    97.0
+Blackstone-Millville,06220000,"     1,458",     4.7,     2.4,"     1,432",    97.0
+Bristol-Plymouth Regional Vocational Technical,08100000,"     1,122",     3.1,     0.4,"     1,121",    97.0
+Marion,01690000,       379,     5.8,     5.0,       368,    97.0
+Mattapoisett,01730000,       402,     4.5,     3.7,       396,    97.0
+Sherborn,02690000,       337,     3.3,     0.9,       336,    97.0
+Watertown,03140000,"     1,765",     5.3,     3.2,"     1,723",    97.0
+Whitman-Hanson,07800000,"     3,337",     5.1,     3.5,"     3,270",    97.0
+Woburn,03470000,"     3,192",     5.0,     2.8,"     3,132",    97.0
+Ludlow,01610000,"     2,139",     4.5,     2.0,"     2,109",    96.9
+Mashpee,01720000,"     1,183",     5.3,     3.0,"     1,156",    96.9
+Avon,00180000,       350,     4.0,     2.0,       347,    96.8
+Ayer Shirley School District,06160000,"     1,300",     4.4,     2.2,"     1,284",    96.8
+Bellingham,00250000,"     1,866",     4.6,     1.9,"     1,841",    96.8
+Berlin-Boylston,06200000,       906,     5.1,     3.8,       888,    96.8
+Billerica,00310000,"     3,726",     5.4,     4.3,"     3,643",    96.8
+Fairhaven,00940000,"     1,780",     4.5,     2.7,"     1,760",    96.8
+Foxborough Regional Charter (District),04460000,       494,     3.2,     0.2,       494,    96.8
+Methuen,01810000,"     3,187",     5.9,     3.9,"     3,108",    96.8
+Mystic Valley Regional Charter (District),04700000,       730,     3.4,     1.2,       728,    96.8
+Blue Hills Regional Vocational Technical,08060000,       483,     3.3,     0.2,       483,    96.7
+Monson,01910000,       839,     5.1,     2.1,       823,    96.7
+Southern Worcester County Regional Vocational Technical,08760000,       997,     3.8,     1.3,       993,    96.6
+Stoneham,02840000,"     1,900",     4.7,     3.7,"     1,876",    96.6
+Upper Cape Cod Regional Vocational Technical,08790000,       598,     3.7,     0.7,       596,    96.6
+Wellfleet,03180000,        88,     4.5,     2.3,        87,    96.6
+Dracut,00790000,"     2,759",     5.9,     3.7,"     2,693",    96.5
+Greenfield,01140000,"     1,255",     5.7,     2.8,"     1,226",    96.5
+Marblehead Community Charter Public (District),04640000,       177,     7.3,     4.0,       170,    96.5
+Montachusett Regional Vocational Technical,08320000,"     1,092",     3.9,     1.2,"     1,087",    96.5
+Northeast Metropolitan Regional Vocational Technical,08530000,       776,     4.3,     1.3,       770,    96.5
+Brimfield,00430000,       294,     8.2,     7.1,       280,    96.4
+Bristol County Agricultural,09100000,       414,     3.6,     0.0,       414,    96.4
+Pioneer Valley Chinese Immersion Charter (District),04970000,       278,     4.3,     1.1,       276,    96.4
+Triton,07730000,"     2,186",     5.0,     2.7,"     2,157",    96.4
+Ware,03090000,"     1,068",     8.5,     6.1,"     1,013",    96.4
+Amherst-Pelham,06050000,       742,     4.0,     1.2,       739,    96.3
+Carver,00520000,"     1,542",     6.5,     3.4,"     1,497",    96.3
+Greater Lowell Regional Vocational Technical,08280000,       943,     3.7,     1.3,       943,    96.3
+Worthington,03490000,        85,     9.4,     8.2,        80,    96.3
+Bourne,00360000,"     1,688",     5.9,     3.3,"     1,652",    96.2
+South Hadley,02780000,"     1,543",     6.1,     4.1,"     1,507",    96.2
+Uxbridge,03040000,"     1,578",     6.1,     4.1,"     1,540",    96.2
+Boston Collegiate Charter (District),04490000,       314,     6.1,     3.5,       307,    96.1
+Pittsfield,02360000,"     3,339",     6.4,     3.1,"     3,279",    96.1
+Somerville,02740000,"     1,955",     6.3,     3.1,"     1,913",    96.1
+South Middlesex Regional Vocational Technical,08290000,       360,     5.0,     1.7,       356,    96.1
+Haverhill,01280000,"     4,341",     7.0,     3.8,"     4,232",    96.0
+Narragansett,07200000,"     1,338",     6.0,     2.7,"     1,310",    96.0
+Peabody,02290000,"     4,642",     6.4,     3.7,"     4,542",    96.0
+Pioneer Valley Performing Arts Charter Public (District),04790000,       251,     4.8,     3.6,       249,    96.0
+Agawam,00050000,"     3,135",     7.0,     4.1,"     3,048",    95.9
+Attleboro,00160000,"     4,122",     7.2,     4.7,"     4,019",    95.9
+Cape Cod Regional Vocational Technical,08150000,       445,     5.4,     1.6,       439,    95.9
+Martha's Vineyard,07000000,       468,     5.8,     2.6,       460,    95.9
+Middleborough,01820000,"     2,718",     6.4,     4.0,"     2,651",    95.9
+Millbury,01860000,"     1,392",     5.9,     3.7,"     1,368",    95.8
+Rockland,02510000,"     1,709",     6.1,     3.0,"     1,677",    95.8
+Saugus,02620000,"     1,767",     6.6,     3.6,"     1,723",    95.8
+Winthrop,03460000,"     1,625",     6.3,     4.3,"     1,589",    95.8
+Falmouth,00960000,"     2,622",     6.3,     4.0,"     2,569",    95.7
+Minuteman Regional Vocational Technical,08300000,       489,     4.9,     0.8,       486,    95.7
+Spencer-E Brookfield,07670000,"     1,147",     8.1,     4.4,"     1,104",    95.7
+Tantasqua,07700000,"     1,613",     5.8,     1.7,"     1,601",    95.7
+West Springfield,03320000,"     2,715",     6.7,     3.9,"     2,651",    95.7
+Wrentham,03500000,       830,     5.8,     4.7,       817,    95.7
+Hancock,01210000,        45,     4.4,     4.4,        45,    95.6
+Rochester,02500000,       477,     5.5,     3.4,       472,    95.6
+Stoughton,02850000,"     1,848",     6.9,     4.4,"     1,801",    95.6
+Sturgis Charter Public (District),04890000,       747,     7.4,     4.7,       724,    95.6
+Leominster,01530000,"     2,922",     7.1,     4.1,"     2,868",    95.5
+Mohawk Trail,07170000,       790,     5.7,     3.8,       780,    95.5
+North Middlesex,07350000,"     2,817",     7.3,     5.1,"     2,742",    95.5
+Sizer School: A North Central Charter Essential (District),04740000,       252,     8.3,     4.4,       242,    95.5
+Cambridge,00490000,"     3,003",     8.0,     5.1,"     2,905",    95.4
+Clinton,00640000,"     1,327",     7.9,     4.7,"     1,281",    95.4
+Gateway,06720000,       777,     6.8,     5.3,       761,    95.4
+Gill-Montague,06740000,       758,     6.9,     3.2,       740,    95.4
+Southern Berkshire,07650000,       593,     6.7,     3.2,       583,    95.4
+Easthampton,00860000,"     1,226",     6.6,     4.6,"     1,202",    95.3
+New Bedford,02010000,"     5,232",     9.1,     5.4,"     5,044",    95.3
+Salem,02580000,"     1,674",     7.6,     4.5,"     1,630",    95.3
+Cape Cod Lighthouse Charter (District),04320000,       210,     6.2,     3.3,       207,    95.2
+Pioneer Valley,07500000,       667,     6.3,     5.4,       657,    95.1
+Brookfield,00450000,       291,     8.6,     4.8,       280,    95.0
+Chicopee,00610000,"     3,816",     8.5,     4.7,"     3,712",    95.0
+Hoosac Valley Regional,06030000,"     1,054",     8.6,     5.4,"     1,014",    95.0
+MATCH Charter Public School (District),04690000,        20,     5.0,     5.0,        20,    95.0
+Medford,01760000,"     2,540",     7.1,     3.9,"     2,489",    95.0
+Up-Island Regional,07740000,       342,     6.4,     2.9,       338,    95.0
+Pioneer Charter School of Science II (PCSS-II) (District),35060000,        98,     5.1,     0.0,        98,    94.9
+Quabbin,07530000,"     2,029",     7.9,     3.9,"     1,973",    94.9
+Dennis-Yarmouth,06450000,"     1,992",     8.3,     4.8,"     1,930",    94.8
+Leicester,01510000,"     1,186",     6.9,     4.0,"     1,164",    94.8
+Quincy,02430000,"     4,089",     8.4,     5.0,"     3,979",    94.8
+Revere,02480000,"     2,552",     8.7,     4.6,"     2,477",    94.8
+Southborough,02760000,       888,     6.8,     6.0,       873,    94.8
+Clarksburg,00630000,       192,     7.8,     3.1,       187,    94.7
+Excel Academy Charter (District),04100000,       169,     5.3,     0.6,       169,    94.7
+Sabis International Charter (District),04410000,       308,     7.8,     4.5,       300,    94.7
+Sunderland,02890000,       156,     7.7,     7.1,       152,    94.7
+Amherst,00080000,       555,     8.3,     6.7,       541,    94.6
+Framingham,01000000,"     4,831",     7.0,     2.6,"     4,765",    94.6
+South Shore Charter Public (District),04880000,       508,     7.3,     4.3,       498,    94.6
+Deerfield,00740000,       330,     7.0,     6.7,       325,    94.5
+Edgartown,00890000,       287,    10.8,     9.4,       271,    94.5
+North Brookfield,02150000,       512,     9.8,     4.9,       489,    94.5
+Pathfinder Regional Vocational Technical,08600000,       587,     6.8,     1.7,       579,    94.5
+Richmond,02490000,       151,     8.6,     6.0,       146,    94.5
+Hampden Charter School of Science East (District),04990000,       163,     6.1,     4.3,       162,    94.4
+Martha's Vineyard Charter (District),04660000,       127,     7.9,     5.5,       124,    94.4
+Pelham,02300000,        90,     5.6,     2.2,        90,    94.4
+Rising Tide Charter Public (District),04830000,       580,     6.9,     3.3,       572,    94.4
+Abby Kelley Foster Charter Public (District),04450000,       281,     6.4,     4.6,       279,    94.3
+Barnstable,00200000,"     3,418",     8.4,     5.2,"     3,323",    94.3
+Gardner,01030000,"     1,601",     8.9,     4.4,"     1,549",    94.3
+North Adams,02090000,"     1,168",     9.3,     5.2,"     1,132",    94.3
+Georgetown,01050000,"     1,304",     7.0,     5.8,"     1,289",    94.2
+Winchendon,03430000,"     1,117",    10.0,     4.8,"     1,075",    94.2
+Worcester,03480000,"     7,674",    10.1,     5.5,"     7,396",    94.2
+Brockton,00440000,"     2,693",    10.6,     5.9,"     2,593",    94.0
+Lynn,01630000,"     2,320",     8.6,     4.8,"     2,273",    94.0
+Weymouth,03360000,"     4,239",     8.7,     6.4,"     4,124",    94.0
+Holland,01350000,       218,    10.6,     5.5,       208,    93.8
+Randolph,02440000,       348,    11.5,     8.6,       330,    93.3
+Milford,01850000,"     2,795",    10.7,     8.2,"     2,680",    93.1
+Fitchburg,00970000,"     1,580",    11.7,     7.2,"     1,513",    93.0
+Four Rivers Charter Public (District),04130000,       189,     8.5,     2.6,       186,    93.0
+Seven Hills Charter Public (District),04860000,        45,    11.1,     4.4,        43,    93.0
+Community Charter School of Cambridge (District),04360000,        14,     7.1,     0.0,        14,    92.9
+Wareham,03100000,"     1,523",    10.4,     5.8,"     1,472",    92.9
+Fall River,00950000,"     5,350",    11.8,     6.8,"     5,170",    92.7
+Map Academy Charter School (District),35170000,       121,    16.5,    10.7,       109,    92.7
+Quaboag Regional,07780000,"     1,119",     9.9,     5.9,"     1,087",    92.7
+Hull,01420000,       804,     9.8,     6.3,       783,    92.6
+Athol-Royalston,06150000,"     1,334",    10.9,     6.6,"     1,287",    92.5
+Lowell,01600000,"     4,001",    14.1,     8.3,"     3,737",    92.5
+Lowell Community Charter Public (District),04560000,        40,     7.5,     2.5,        40,    92.5
+Orange,02230000,       500,    15.2,    12.2,       460,    92.2
+Boston,00350000,"     7,907",    11.2,     6.5,"     7,687",    92.1
+Wales,03060000,       142,    12.0,     6.3,       136,    91.9
+Baystate Academy Charter Public School (District),35020000,        59,    10.2,     1.7,        58,    91.4
+Webster,03160000,"     1,045",    11.7,     6.1,"     1,012",    91.2
+Holyoke,01370000,       779,    12.6,     6.7,       753,    91.1
+Palmer,02270000,"     1,060",    12.1,     7.9,"     1,024",    91.0
+Community Day Charter Public School - R. Kingman Webster (District),04310000,        11,     9.1,     0.0,        11,    90.9
+Lincoln,01570000,       693,    13.1,     5.1,       662,    90.9
+Provincetown,02420000,        71,    15.5,    12.7,        66,    90.9
+Neighborhood House Charter (District),04440000,       114,    13.2,     7.9,       109,    90.8
+Argosy Collegiate Charter School (District),35090000,       307,    10.1,     6.2,       305,    90.5
+Everett,00930000,"     1,470",    11.7,     5.2,"     1,441",    90.5
+Tisbury,02960000,       168,    13.1,     7.1,       162,    90.1
+Berkshire Arts and Technology Charter Public (District),04140000,       268,    11.9,     4.5,       264,    89.4
+Malden,01650000,"     1,905",    15.2,    11.1,"     1,808",    89.4
+Hampden Charter School of Science West (District),35160000,       135,    14.1,     6.7,       130,    89.2
+Springfield,02810000,"     2,580",    16.8,     9.9,"     2,462",    89.0
+Dudley Street Neighborhood Charter School (District),04070000,         9,    11.1,     0.0,         9,    88.9
+Edward M. Kennedy Academy for Health Careers (Horace Mann Charter) (District),04520000,         9,    11.1,     0.0,         9,    88.9
+Collegiate Charter School of Lowell (District),35030000,       139,    14.4,     7.2,       134,    88.8
+Franklin County Regional Vocational Technical,08180000,       466,    11.6,     9.9,       465,    88.6
+Brooke Charter School (District),04280000,        89,    13.5,     5.6,        87,    88.5
+Sandwich,02610000,"     2,318",    12.9,    11.7,"     2,283",    88.5
+Alma del Mar Charter School (District),04090000,       148,    13.5,     9.5,       146,    87.7
+Chelsea,00570000,       448,    20.1,    11.4,       414,    86.7
+Bentley Academy Charter School (District),35110000,        76,    15.8,     3.9,        75,    85.3
+Lawrence,01490000,       517,    19.5,    10.3,       497,    85.3
+Phoenix Academy Public Charter High School Springfield (District),35080000,        18,    38.9,    33.3,        13,    84.6
+Springfield Preparatory Charter School (District),35100000,        26,    15.4,    11.5,        26,    84.6
+City on a Hill Charter Public School Dudley Square (District),35040000,         7,    28.6,    14.3,         6,    83.3
+Bridge Boston Charter School (District),04170000,         8,    50.0,    37.5,         5,    80.0
+Southbridge,02770000,       745,    24.4,    10.7,       706,    80.0
+Veritas Preparatory Charter School (District),04980000,        20,    20.0,     0.0,        20,    80.0
+Benjamin Banneker Charter Public (District),04200000,        10,    30.0,    20.0,         9,    77.8
+Roxbury Preparatory Charter (District),04840000,        22,    27.3,    13.6,        21,    76.2
+Greenfield Commonwealth Virtual District,39010000,       526,    43.5,    35.2,       394,    75.4
+Boston Day and Evening Academy Charter (District),04240000,        27,    37.0,    18.5,        24,    70.8
+New Heights Charter School of Brockton (District),35130000,        10,    30.0,    20.0,        10,    70.0
+UP Academy Charter School of Boston (District),04800000,        10,    30.0,    20.0,        10,    70.0
+TEC Connections Academy Commonwealth Virtual School District,39020000,"     1,912",    46.4,    33.6,"     1,471",    69.6
+Boston Preparatory Charter Public (District),04160000,        12,    33.3,    33.3,        12,    66.7
+Lowell Middlesex Academy Charter (District),04580000,        40,    47.5,    30.0,        32,    65.6
+Phoenix Charter Academy (District),04930000,        10,    60.0,    40.0,         8,    50.0
+UP Academy Charter School of Dorchester (District),35050000,        10,    60.0,    20.0,        10,    40.0
+City on a Hill Charter Public School New Bedford (District),35070000,        54,    64.8,     1.9,        54,    35.2
